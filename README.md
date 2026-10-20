@@ -9,6 +9,9 @@ After, I made a spire for the next section -- a funnel. I made a line, then crea
 The marble compared to the slide is shown, and the top of the funnel with its filleted parts.
 <img width="700" height="630" alt="spirey" src="https://github.com/user-attachments/assets/16d9b436-5dce-406d-a4e2-1f307b719261" />
 <img width="487" height="338" alt="Screenshot 2026-10-19 214353" src="https://github.com/user-attachments/assets/b347c3c8-2a01-4a0d-b140-9e242647eff9" />
+3 hours for learning
+4 hours for building slide
+4 hours for finetuning, such as adding marble, filleting, and spire for holding.
 
 
 

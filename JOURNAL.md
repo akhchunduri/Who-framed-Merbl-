@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmve8rd0c04hc01rcce3xgqem). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A custom 3D-printed marble race, as Merbl is running away through this  maze.
+> A custom 3D-printed marble race, as Merbl is running away through this  maze. Here, a zig zag pattern paves the way for escape.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
